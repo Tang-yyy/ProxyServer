@@ -25,7 +25,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>Main</mainClass>
+              <mainClass>proxy.Main</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
