@@ -1,5 +1,4 @@
-import proxy.ProxyServer;
-
+package proxy;
 
 /**
  * 启动入口
